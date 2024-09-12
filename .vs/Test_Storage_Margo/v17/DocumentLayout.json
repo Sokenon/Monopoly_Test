@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C1FDAB-4FFB-49AB-9D61-B1970D521031}|Test_Storage_Margo\\Test_Storage_Margo.csproj|c:\\users\\user\\source\\repos\\test_storage_margo\\test_storage_margo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C1FDAB-4FFB-49AB-9D61-B1970D521031}|Test_Storage_Margo\\Test_Storage_Margo.csproj|solutionrelative:test_storage_margo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C1FDAB-4FFB-49AB-9D61-B1970D521031}|Test_Storage_Margo\\Test_Storage_Margo.csproj|c:\\users\\user\\source\\repos\\test_storage_margo\\test_storage_margo\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C1FDAB-4FFB-49AB-9D61-B1970D521031}|Test_Storage_Margo\\Test_Storage_Margo.csproj|solutionrelative:test_storage_margo\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C1FDAB-4FFB-49AB-9D61-B1970D521031}|Test_Storage_Margo\\Test_Storage_Margo.csproj|c:\\users\\user\\source\\repos\\test_storage_margo\\test_storage_margo\\models\\randomobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C1FDAB-4FFB-49AB-9D61-B1970D521031}|Test_Storage_Margo\\Test_Storage_Margo.csproj|solutionrelative:test_storage_margo\\models\\randomobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C1FDAB-4FFB-49AB-9D61-B1970D521031}|Test_Storage_Margo\\Test_Storage_Margo.csproj|c:\\users\\user\\source\\repos\\test_storage_margo\\test_storage_margo\\models\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C1FDAB-4FFB-49AB-9D61-B1970D521031}|Test_Storage_Margo\\Test_Storage_Margo.csproj|solutionrelative:test_storage_margo\\models\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C1FDAB-4FFB-49AB-9D61-B1970D521031}|Test_Storage_Margo\\Test_Storage_Margo.csproj|c:\\users\\user\\source\\repos\\test_storage_margo\\test_storage_margo\\models\\pallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C1FDAB-4FFB-49AB-9D61-B1970D521031}|Test_Storage_Margo\\Test_Storage_Margo.csproj|solutionrelative:test_storage_margo\\models\\pallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C1FDAB-4FFB-49AB-9D61-B1970D521031}|Test_Storage_Margo\\Test_Storage_Margo.csproj|c:\\users\\user\\source\\repos\\test_storage_margo\\test_storage_margo\\models\\obj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C1FDAB-4FFB-49AB-9D61-B1970D521031}|Test_Storage_Margo\\Test_Storage_Margo.csproj|solutionrelative:test_storage_margo\\models\\obj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 341,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandomObj.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\Test_Storage_Margo\\Models\\RandomObj.cs",
+              "RelativeDocumentMoniker": "Test_Storage_Margo\\Models\\RandomObj.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\Test_Storage_Margo\\Models\\RandomObj.cs",
+              "RelativeToolTip": "Test_Storage_Margo\\Models\\RandomObj.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:45:15.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Obj.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\Test_Storage_Margo\\Models\\Obj.cs",
+              "RelativeDocumentMoniker": "Test_Storage_Margo\\Models\\Obj.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\Test_Storage_Margo\\Models\\Obj.cs",
+              "RelativeToolTip": "Test_Storage_Margo\\Models\\Obj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:09:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\Test_Storage_Margo\\Models\\Db.cs",
+              "RelativeDocumentMoniker": "Test_Storage_Margo\\Models\\Db.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\Test_Storage_Margo\\Models\\Db.cs",
+              "RelativeToolTip": "Test_Storage_Margo\\Models\\Db.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAtwHwAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:36:21.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pallet.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\Test_Storage_Margo\\Models\\Pallet.cs",
+              "RelativeDocumentMoniker": "Test_Storage_Margo\\Models\\Pallet.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\Test_Storage_Margo\\Models\\Pallet.cs",
+              "RelativeToolTip": "Test_Storage_Margo\\Models\\Pallet.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:19:48.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\Test_Storage_Margo\\Models\\Box.cs",
+              "RelativeDocumentMoniker": "Test_Storage_Margo\\Models\\Box.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\Test_Storage_Margo\\Models\\Box.cs",
+              "RelativeToolTip": "Test_Storage_Margo\\Models\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:46:27.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\Test_Storage_Margo\\Program.cs",
+              "RelativeDocumentMoniker": "Test_Storage_Margo\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Test_Storage_Margo\\Test_Storage_Margo\\Program.cs",
+              "RelativeToolTip": "Test_Storage_Margo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:35:25.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
